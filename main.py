@@ -1,7 +1,7 @@
 import os
 import yt_dlp
 
-# EKRANA YAZDIRIR
+# PRINTS ON THE SCREEN
 print(""" ENTER A VALİD NUMBER :
 
     1- VİDEO DOWNLOADER 
